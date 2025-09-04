@@ -2,9 +2,6 @@
 
 Intelligent resume matching with AI-powered semantic search
 
-![Screenshot](https://github.com/username/repo/blob/main/images/Screenshot_2025-09-04_160726.png?raw=true)
-
-
 ## Overview
 RecruitRAG Pro is an intelligent resume matching system that uses AI-powered semantic search to find the perfect candidates for job openings. The system processes resumes, extracts skills and project information, and creates a searchable knowledge base using advanced natural language processing techniques.
 
